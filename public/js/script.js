@@ -7,7 +7,7 @@ import {
   dateFormat,
 } from "./listaControles.js";
 
-const URL = "https://gestor-cliente-sole.herokuapp.com/";
+const URL = "https://sole-clientes.onrender.com/";
 
 VerificarJWT();
 

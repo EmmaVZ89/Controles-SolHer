@@ -1,4 +1,4 @@
-const URL = "https://gestor-cliente-sole.herokuapp.com/";
+const URL = "https://sole-clientes.onrender.com/";
 
 VerificarSesionIniciada();
 
